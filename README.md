@@ -25,11 +25,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
-
-  <a href="mailto:kamarak388@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-kamarak388@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:kamarak388@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" alt="Gmail" />
 </a>
-</p>
 
 <!-- GitHub Stats -->
 <p>
