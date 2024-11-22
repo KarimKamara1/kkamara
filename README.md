@@ -1,4 +1,3 @@
-
 <!-- Masthead -->
 ![Masthead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/475eb095746151.5e9ecde695f7a.gif)
 
@@ -13,10 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=karimkamara1&label=Profile%20views&color=0e75b6&style=flat" alt="karimkamara1" />
 </p>
 
-<!-- Twitter Badge -->
-<p align="left"> 
-  <a href="https://twitter.com/kamarakarim2" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/kamarakarim2?logo=twitter&style=for-the-badge" alt="kamarakarim2" />
+    <img src="https://img.shields.io/twitter/follow/kamarakarim2?logo=twitter&style=for-the-badge" alt="Follow me on Twitter @kamarakarim2" />
   </a> 
 </p>
 
@@ -31,6 +27,9 @@
   </a>
   <a href="https://fb.com/karim.kamara.3532" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="mailto:kamarak388@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
