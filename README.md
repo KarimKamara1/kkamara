@@ -12,10 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=karimkamara1&label=Profile%20views&color=0e75b6&style=flat" alt="karimkamara1" />
 </p>
 
-    <img src="https://img.shields.io/twitter/follow/kamarakarim2?logo=twitter&style=for-the-badge" alt="Follow me on Twitter @kamarakarim2" />
-  </a> 
-</p>
-
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
