@@ -1,7 +1,7 @@
-[!MasterHead]( https://mir-s3-cdn-cf.behance.net/project_modules/disp/475eb095746151.5e9ecde695f7a.gif)
+[[Masterhead]( https://mir-s3-cdn-cf.behance.net/project_modules/disp/475eb095746151.5e9ecde695f7a.gif)
 <h1 align="center">Hi , I'm Karim Kamara</h1>
 <h3 align="center">I'm passionate about Python and Data Science</h3>
-<img align="right" alt="Coding"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmm1FCApzBZkF9XglZtezPl0ZxlglAKODiw&s”> 
+<ing align-"right" alt="Coding" width="400" src="https://com.dribb="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmm1FCApzBZkF9XglZtezPl0ZxlglAKODiw&s”> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimkamara1&label=Profile%20views&color=0e75b6&style=flat" alt="karimkamara1" /> </p>
 
