@@ -1,7 +1,7 @@
 <!-- Masthead -->
 ![Masthead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/475eb095746151.5e9ecde695f7a.gif)
 
-<h1 align="center">Hi, I'm Karim Kamara</h1>
+<h1 align="center">Hi, My name is Karim Kamara</h1>
 <h3 align="center">I'm passionate about Python and Data Science</h3>
 
 <!-- Right-Aligned Image -->
