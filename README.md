@@ -2,7 +2,7 @@
 ![Masthead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/475eb095746151.5e9ecde695f7a.gif)
 
 <h1 align="center">Hi, My name is Karim Kamara</h1>
-<h3 align="center">I'm passionate about Python and Data Science</h3>
+<h3 align="center">I'm currently learning Computer and Data Science</h3>
 
 <!-- Right-Aligned Image -->
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmm1FCApzBZkF9XglZtezPl0ZxlglAKODiw&s">
